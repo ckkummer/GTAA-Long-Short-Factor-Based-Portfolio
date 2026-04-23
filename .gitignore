@@ -1,0 +1,5 @@
+*.xlsx
+*.pdf
+~$*
+.DS_Store
+MAPM_Final_Draft1.ipynb
