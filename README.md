@@ -1,0 +1,1 @@
+GTAA factor portfolio system for 10 developed equity index futures. Implements momentum (12-1, risk-adjusted, 9-1) and volatility-of-volatility (36m) FMPs with 1% vol scaling, SLSQP combination optimization, and full OOS backtest (2016–2025). Training IR 0.45 → backtest IR 0.18.
